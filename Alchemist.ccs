@@ -1,0 +1,60 @@
+<Solution>
+  <PropertyGroup Name="Alchemist" Version="2.2.1.0" Type="CocosStudio" />
+  <SolutionFolder>
+    <Group ctype="ResourceGroup">
+      <RootFolder Name=".">
+        <Folder Name="Common">
+          <Image Name="btn1_d.png" />
+          <Image Name="btn1_n.png" />
+          <Image Name="btn1_s.png" />
+          <Image Name="btn2_d.png" />
+          <Image Name="btn2_n.png" />
+          <Image Name="btn2_s.png" />
+          <Image Name="btn_add_d.png" />
+          <Image Name="btn_add_n.png" />
+          <Image Name="btn_add_s.png" />
+          <Image Name="btn_minus_d.png" />
+          <Image Name="btn_minus_n.png" />
+          <Image Name="btn_minus_s.png" />
+          <Image Name="flag_new.png" />
+          <Image Name="flag_type_liquid.png" />
+          <Image Name="ui_bg_paper_1.png" />
+          <Image Name="alpha.png" />
+        </Folder>
+        <Folder Name="bg">
+          <Image Name="bg_1.jpg" />
+          <Image Name="bg_2.jpg" />
+          <Image Name="bg_3.jpg" />
+        </Folder>
+        <PlistInfo Name="Common.csi" Type="Plist" />
+        <Folder Name="MainScene">
+          <Image Name="img_map.png" />
+          <Image Name="img_map_s.png" />
+        </Folder>
+        <Folder Name="font">
+          <File Name="common.ttf" />
+          <File Name="wryh.ttf" />
+        </Folder>
+        <Project Name="DeviceLayer.csd" Type="Layer" />
+        <Project Name="UserInfo.csd" Type="Node" />
+        <Folder Name="UserInfo">
+          <Image Name="flag_date_1.png" />
+          <Image Name="user_exp.png" />
+          <Image Name="user_info_bg.png" />
+          <PlistParticleFile Name="particle_exp.plist" />
+          <Image Name="particle_EXP.png" />
+        </Folder>
+        <Project Name="ExpProgress.csd" Type="Node" />
+        <Project Name="AlchemyResult.csd" Type="Layer" />
+        <Folder Name="AlchemyResult">
+          <Image Name="ui_bg_1.png" />
+        </Folder>
+        <Folder Name="Device">
+          <Image Name="ui_bg_flag_1.png" />
+        </Folder>
+        <Project Name="DeviceNode.csd" Type="Node" />
+        <Project Name="MainScene.csd" Type="Layer" />
+      </RootFolder>
+    </Group>
+  </SolutionFolder>
+</Solution>

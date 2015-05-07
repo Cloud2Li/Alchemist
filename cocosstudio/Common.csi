@@ -1,0 +1,24 @@
+<PlistInfoProjectFile>
+  <PropertyGroup Type="Plist" Name="Common" ID="1059b8c4-1ea5-473d-8f15-0298e8e7cd1a" Version="2.2.5.0" />
+  <Content ExportType="Png" SortAlgorithm="MaxRects" PicturePadding="0" AllowRotation="False" AllowAnySize="False" AllowTrim="False" ctype="PlistInfoData">
+    <ImageFiles>
+      <FilePathData Path="Common/btn_add_d.png" />
+      <FilePathData Path="Common/btn_add_n.png" />
+      <FilePathData Path="Common/btn_add_s.png" />
+      <FilePathData Path="Common/btn_minus_d.png" />
+      <FilePathData Path="Common/btn_minus_n.png" />
+      <FilePathData Path="Common/btn_minus_s.png" />
+      <FilePathData Path="Common/btn1_d.png" />
+      <FilePathData Path="Common/btn1_n.png" />
+      <FilePathData Path="Common/btn1_s.png" />
+      <FilePathData Path="Common/btn2_d.png" />
+      <FilePathData Path="Common/btn2_n.png" />
+      <FilePathData Path="Common/btn2_s.png" />
+      <FilePathData Path="Common/flag_new.png" />
+      <FilePathData Path="Common/flag_type_liquid.png" />
+      <FilePathData Path="Common/ui_bg_paper_1.png" />
+      <FilePathData Path="Common/alpha.png" />
+    </ImageFiles>
+    <MaxSize Width="2048" Height="2048" />
+  </Content>
+</PlistInfoProjectFile>
